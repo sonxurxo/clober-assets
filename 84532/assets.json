@@ -12,5 +12,12 @@
     "symbol": "XTK",
     "decimals": 18,
     "icon": "XTK.png"
+  },
+  {
+    "address": "0x60697B26293F12c3cfFc9fEa4a3c7464D04Aa857",
+    "name": "Y-Token",
+    "symbol": "YTK",
+    "decimals": 18,
+    "icon": "YTK.png"
   }
 ]
