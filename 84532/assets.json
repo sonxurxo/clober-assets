@@ -5,5 +5,12 @@
     "symbol": "USDC",
     "decimals": 6,
     "icon": "usd-coin-usdc-logo.png"
+  },
+  {
+    "address": "0x3b613D4C9A0aC1f19bcb8ADEdb4179cE0721a80D",
+    "name": "X-Token",
+    "symbol": "XTK",
+    "decimals": 18,
+    "icon": "XTK.png"
   }
 ]
