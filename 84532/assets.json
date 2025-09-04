@@ -26,5 +26,12 @@
     "symbol": "BTK",
     "decimals": 18,
     "icon": "BTK.png"
+  },
+  {
+    "address": "0x353a5E8660B29F91BCf1aBD34edd8CBf08F544A4",
+    "name": "C-Token",
+    "symbol": "CTK",
+    "decimals": 18,
+    "icon": "CTK.png"
   }
 ]
