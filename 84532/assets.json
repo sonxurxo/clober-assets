@@ -19,5 +19,12 @@
     "symbol": "YTK",
     "decimals": 18,
     "icon": "YTK.png"
+  },
+  {
+    "address": "0x6aDd82b1bb3910e3bAa6B1f56C3A5f2CD2FdCb02",
+    "name": "A-Token",
+    "symbol": "ATK",
+    "decimals": 18,
+    "icon": "ATK.png"
   }
 ]
