@@ -21,10 +21,10 @@
     "icon": "YTK.png"
   },
   {
-    "address": "0x6aDd82b1bb3910e3bAa6B1f56C3A5f2CD2FdCb02",
-    "name": "A-Token",
-    "symbol": "ATK",
+    "address": "0xE2f0b9Ac4f2A1B66cB2E0bE8f6fBD8150cC6E311",
+    "name": "B-Token",
+    "symbol": "BTK",
     "decimals": 18,
-    "icon": "ATK.png"
+    "icon": "BTK.png"
   }
 ]
